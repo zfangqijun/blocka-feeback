@@ -1,9 +1,7 @@
 ---
 name: 反馈
 about: 提供我们项目的反馈
-title: ''
-labels: 反馈
-assignees: ''
+title: '反馈'
 ---
 
 **描述**
